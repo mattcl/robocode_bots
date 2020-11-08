@@ -10,7 +10,7 @@ import java.awt.geom.Rectangle2D;
 import robocode.util.Utils;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RPoint extends Point2D.Double {

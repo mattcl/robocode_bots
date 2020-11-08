@@ -19,7 +19,7 @@ import java.util.*;
  * weapon statistics as input, and more can be added
  * later.
  * 
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDefaultTargetingStatistic implements RTargetingStatistic {

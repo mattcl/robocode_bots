@@ -8,7 +8,7 @@ import java.util.*;
 import rampancy.util.RDistanceFunction;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class KDNearestSearch<T extends KDPoint> {

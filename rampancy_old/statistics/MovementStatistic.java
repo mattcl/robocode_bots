@@ -14,7 +14,7 @@ import java.util.*;
 
 /**
  * This class tracks our movment statistics per enemy
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  * 
  */
 public class MovementStatistic implements EnemyListener {

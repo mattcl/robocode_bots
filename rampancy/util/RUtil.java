@@ -15,7 +15,7 @@ import robocode.util.Utils;
 
 /**
  * This class contains utility methods used by Durandal
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class RUtil {

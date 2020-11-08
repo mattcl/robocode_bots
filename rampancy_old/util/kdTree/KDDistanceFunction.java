@@ -4,7 +4,7 @@
 package rampancy_old.util.kdTree;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface KDDistanceFunction<T> {

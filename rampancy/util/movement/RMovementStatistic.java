@@ -7,7 +7,7 @@ import rampancy.util.RPoint;
 import rampancy.util.wave.REnemyWave;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface RMovementStatistic {

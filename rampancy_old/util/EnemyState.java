@@ -9,7 +9,7 @@ import rampancy_old.util.*;
 
 /**
  * This class contains the state information for a given enemy
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class EnemyState extends RobotState {

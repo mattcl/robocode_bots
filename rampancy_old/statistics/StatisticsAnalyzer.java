@@ -5,7 +5,7 @@ package rampancy_old.statistics;
 
 /**
  * This class analyzes the statistics gathered by the stats manager
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class StatisticsAnalyzer {

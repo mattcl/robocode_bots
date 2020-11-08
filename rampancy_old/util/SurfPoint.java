@@ -10,7 +10,7 @@ import rampancy_old.util.kdTree.KDDistanceFunction;
 
 /**
  * This class is used to store surf stats in a KD tree
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class SurfPoint {

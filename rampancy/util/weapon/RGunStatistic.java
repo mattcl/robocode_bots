@@ -6,7 +6,7 @@ package rampancy.util.weapon;
 import java.text.DecimalFormat;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RGunStatistic {

@@ -6,7 +6,7 @@ package rampancy_old.util.kdTree;
 import java.awt.Point;
 import java.util.*;
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class KDTree<T> {

@@ -19,7 +19,7 @@ import robocode.util.*;
  * 
  * Durandal is a WaveSurfing, Guess Factor targeting megabot.
  * 
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class Durandal extends RampantRobot {

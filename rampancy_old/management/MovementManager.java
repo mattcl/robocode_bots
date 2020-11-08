@@ -14,7 +14,7 @@ import robocode.util.Utils;
 
 /**
  * This class handles Durandal's movement calculation
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class MovementManager {

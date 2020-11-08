@@ -8,7 +8,7 @@ import java.util.*;
 import rampancy.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RSegmentTree {

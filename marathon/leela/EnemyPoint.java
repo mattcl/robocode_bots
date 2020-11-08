@@ -8,7 +8,7 @@ import java.awt.geom.Point2D.Double;
 /**
  * This class represents an enemy point. It ensures that the resulting
  * force is perpendicular to the bearing
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class EnemyPoint extends ForcePoint {

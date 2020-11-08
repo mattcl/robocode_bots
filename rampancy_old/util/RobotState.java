@@ -6,7 +6,7 @@ package rampancy_old.util;
 import java.awt.geom.Point2D;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class RobotState {

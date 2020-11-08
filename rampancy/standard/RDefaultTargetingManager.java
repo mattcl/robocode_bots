@@ -16,7 +16,7 @@ import robocode.util.Utils;
 import java.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDefaultTargetingManager implements RTargetingManager {

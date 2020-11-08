@@ -9,7 +9,7 @@ import java.awt.geom.Point2D.Double;
 
 /**
  * The SwivelPoint is a point that keeps Durandal oriented properly
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class SwivelPoint extends ForcePoint {

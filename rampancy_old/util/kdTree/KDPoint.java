@@ -8,7 +8,7 @@ import java.util.Comparator;
 /**
  * This interface specifies methods that kd data points need to implement
  * to be included in a kd tree
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class KDPoint{

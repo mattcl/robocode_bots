@@ -9,7 +9,7 @@ import rampancy.util.movement.RMoveChoice;
 import java.awt.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface RMovementManager {

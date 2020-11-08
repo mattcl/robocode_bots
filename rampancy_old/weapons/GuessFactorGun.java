@@ -9,7 +9,7 @@ import rampancy_old.util.*;
 
 /**
  * This is the standard gun with a distance-based shot power algorithm
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class GuessFactorGun {

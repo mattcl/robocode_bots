@@ -9,7 +9,7 @@ import java.awt.*;
 import java.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface REnemyManager {

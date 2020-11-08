@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  * This interface specifies a KDNode for use in a KDTree
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class KDNode<T extends KDPoint> {

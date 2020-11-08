@@ -8,7 +8,7 @@ import rampancy_old.weapons.*;
 
 /**
  * This class tracks weapon data for use by the TargetingManager
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class GuessFactorGunStatistic {

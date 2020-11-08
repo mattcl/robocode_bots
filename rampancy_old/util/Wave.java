@@ -8,7 +8,7 @@ import java.awt.*;
 
 /**
  * This is the abstract wave class. EnemyWave and BulletWave subclass off of this class
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class Wave {

@@ -8,7 +8,7 @@ import java.awt.geom.Rectangle2D;
 import rampancy.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RRectangle extends Rectangle2D.Double {

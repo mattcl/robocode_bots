@@ -9,7 +9,7 @@ import java.util.*;
 /**
  * The Wall class is a subclass of ForcePoint. It provides a repulsive force that
  * keeps Durandal away from walls.
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class Wall extends ForcePoint {

@@ -9,7 +9,7 @@ import rampancy_old.util.*;
 
 /**
  * This is the class that represents a segment
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class Segment {

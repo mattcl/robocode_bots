@@ -7,7 +7,7 @@ import rampancy.util.RRobotState;
 import rampancy.util.data.RSegmentFunction;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RBranchSegment implements RNode {

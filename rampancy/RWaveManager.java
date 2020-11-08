@@ -13,7 +13,7 @@ import java.awt.Graphics2D;
 import java.util.List;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface RWaveManager extends REnemyListener{

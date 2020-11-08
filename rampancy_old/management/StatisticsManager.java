@@ -18,7 +18,7 @@ import java.awt.geom.*;
 /**
  * This class manages data gathered from enemy robot movements and
  * from Durandal's movement/attack
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class StatisticsManager implements EnemyListener {

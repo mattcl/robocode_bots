@@ -10,7 +10,7 @@ import rampancy_old.Durandal;
 
 /**
  * This class represents a battlefield
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class Battlefield {

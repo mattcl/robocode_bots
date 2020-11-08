@@ -4,7 +4,7 @@
 package rampancy.util.data.kdTree.copy;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface KDDistanceFunction<T> {

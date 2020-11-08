@@ -10,7 +10,7 @@ import rampancy.util.RRectangle;
 import rampancy.util.RUtil;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RMoveChoice {

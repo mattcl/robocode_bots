@@ -4,7 +4,7 @@
 package rampancy_old.data;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class LeafNode implements Node {

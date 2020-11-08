@@ -7,7 +7,7 @@ import robocode.*;
 import robocode.util.Utils;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class Atropos extends AdvancedRobot {

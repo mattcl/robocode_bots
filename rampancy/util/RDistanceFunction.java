@@ -4,7 +4,7 @@
 package rampancy.util;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface RDistanceFunction<T> {

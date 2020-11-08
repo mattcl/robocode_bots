@@ -22,7 +22,7 @@ import java.awt.event.KeyEvent;
 import java.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class RampantRobot extends AdvancedRobot {

@@ -8,11 +8,11 @@ import java.awt.Graphics2D;
 import java.awt.Rectangle;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RBattlefield {

@@ -5,7 +5,7 @@ import java.awt.geom.*;
 
 /**
  * Dummy class for holding common utility methods
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class Utilities {

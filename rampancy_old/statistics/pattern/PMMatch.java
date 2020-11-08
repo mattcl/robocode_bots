@@ -4,7 +4,7 @@
 package rampancy_old.statistics.pattern;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 import java.util.*;

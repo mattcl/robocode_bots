@@ -6,7 +6,7 @@ import robocode.util.*;
 
 /**
  * This class manages and tracks enemy movements, notifying listeners as needed
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class EnemyManager {

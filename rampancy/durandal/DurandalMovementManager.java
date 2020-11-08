@@ -11,7 +11,7 @@ import rampancy.util.REnemyRobot;
 import rampancy.util.movement.RMoveChoice;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class DurandalMovementManager implements RMovementManager {

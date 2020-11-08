@@ -6,7 +6,7 @@ package rampancy.util.data;
 import rampancy.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface RSegmentFunction {

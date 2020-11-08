@@ -8,7 +8,7 @@ import rampancy.util.data.segmentTree.RSTNode;
 import rampancy.util.data.segmentTree.RSegmentTree;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDefaultSurfingSegmentTree extends RSegmentTree {

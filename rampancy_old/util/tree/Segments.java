@@ -11,7 +11,7 @@ import rampancy_old.util.Util;
 
 /**
  * This class contains the Segment constants and helper functions
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class Segments {

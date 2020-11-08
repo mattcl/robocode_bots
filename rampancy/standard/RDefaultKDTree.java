@@ -10,7 +10,7 @@ import rampancy.util.RRobotState;
 import rampancy.util.data.kdTree.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDefaultKDTree {

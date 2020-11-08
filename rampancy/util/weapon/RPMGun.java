@@ -20,7 +20,7 @@ import java.awt.Graphics2D;
 import java.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RPMGun extends RGun {

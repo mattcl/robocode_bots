@@ -10,7 +10,7 @@ import java.awt.geom.Point2D.Double;
 import rampancy_old.RampantRobot;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class EnemyWave extends Wave {

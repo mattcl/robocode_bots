@@ -10,7 +10,7 @@ import rampancy.util.*;
 import rampancy.util.data.RSegmentFunction;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RSTNode {

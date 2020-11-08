@@ -9,7 +9,7 @@ import rampancy.util.*;
 import robocode.util.Utils;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RRepulsiveLine extends Line2D.Double implements RRepulsiveObject {

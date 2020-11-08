@@ -6,7 +6,7 @@ package rampancy_old.statistics.pattern;
 import java.awt.geom.Point2D;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class PMFiringSolution {

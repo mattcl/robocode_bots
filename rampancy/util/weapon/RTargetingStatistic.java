@@ -7,7 +7,7 @@ import rampancy.util.REnemyRobot;
 import rampancy.util.wave.RBulletWave;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface RTargetingStatistic {

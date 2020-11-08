@@ -6,7 +6,7 @@ package rampancy_old.statistics;
 /**
  * This is a dumb struct for holding the indexes we need
  * to retrieve the appropriate segment from a weapon statistic
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class WeaponSegmentIdentifier {

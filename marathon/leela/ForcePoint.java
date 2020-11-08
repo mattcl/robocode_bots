@@ -11,7 +11,7 @@ import rampancy_old.*;
 /**
  * The ForcePoint class is used in Durandal's movement algorithms. It produces an 
  * anti-gravity force whose magnitude decreases inversely with distance.
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class ForcePoint {

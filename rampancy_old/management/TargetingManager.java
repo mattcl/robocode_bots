@@ -15,7 +15,7 @@ import java.awt.geom.*;
 
 /**
  * This class handles Durandal's targeting
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class TargetingManager {

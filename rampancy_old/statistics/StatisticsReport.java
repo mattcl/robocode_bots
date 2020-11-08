@@ -9,7 +9,7 @@ import rampancy_old.util.tree.Segments;
 
 /**
  * This class is a summary of the statistics analyzed by the StatisticsAnalyzer
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class StatisticsReport {

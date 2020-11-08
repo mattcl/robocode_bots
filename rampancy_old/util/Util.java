@@ -13,7 +13,7 @@ import java.util.*;
 
 /**
  * This class contains utility methods used by Durandal
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class Util {

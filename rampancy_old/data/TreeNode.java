@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * This represents a node in the tree for an exported data model
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class TreeNode implements Serializable {

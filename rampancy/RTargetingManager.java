@@ -4,7 +4,7 @@
 package rampancy;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 import rampancy.util.*;

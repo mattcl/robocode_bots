@@ -7,7 +7,7 @@ import rampancy_old.util.*;
 import rampancy_old.util.kdTree.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class DynamicClusteringGunStatistic {

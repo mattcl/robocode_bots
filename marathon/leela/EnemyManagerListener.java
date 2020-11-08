@@ -2,7 +2,7 @@ package marathon.leela;
 
 /**
  * This interface is for objects that need to listen for enemy updates
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface EnemyManagerListener {

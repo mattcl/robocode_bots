@@ -15,7 +15,7 @@ import rampancy.util.RUtil;
 import robocode.util.Utils;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class REnemyWave extends RWave {

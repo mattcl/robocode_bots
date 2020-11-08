@@ -4,7 +4,7 @@
 package rampancy.util.data.kdTree;
 import java.util.*;
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class KDTree<T extends KDPoint> {

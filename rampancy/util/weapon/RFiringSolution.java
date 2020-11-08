@@ -4,7 +4,7 @@
 package rampancy.util.weapon;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 

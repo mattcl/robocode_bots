@@ -13,7 +13,7 @@ import java.util.zip.*;
 
 /**
  * This class manages data loading and saving
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class DataManager {

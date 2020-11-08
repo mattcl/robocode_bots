@@ -12,7 +12,7 @@ import java.awt.*;
 /**
  * This is the abstract weapon class
  * All weapons must subclass off this class
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class Weapon {

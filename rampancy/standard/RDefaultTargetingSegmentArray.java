@@ -7,7 +7,7 @@ import rampancy.util.RRobotState;
 import rampancy.util.data.segmentArray.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDefaultTargetingSegmentArray extends RSegmentArray {

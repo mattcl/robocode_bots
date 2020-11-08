@@ -9,7 +9,7 @@ import rampancy.util.RPoint;
 import rampancy.util.RUtil;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RRepulsivePoint extends RPoint implements RRepulsiveObject {

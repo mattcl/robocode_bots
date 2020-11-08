@@ -12,7 +12,7 @@ import rampancy_old.util.tree.*;
 
 /**
  * This is a dumb struct for returning firing data
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class FiringSolution {

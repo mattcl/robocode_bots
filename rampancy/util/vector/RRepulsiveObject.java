@@ -6,7 +6,7 @@ package rampancy.util.vector;
 import rampancy.util.RPoint;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface RRepulsiveObject {

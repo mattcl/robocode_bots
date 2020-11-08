@@ -6,7 +6,7 @@ package rampancy_old.statistics.pattern;
 import rampancy_old.util.EnemyRobot;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class PMState {

@@ -9,7 +9,7 @@ import rampancy.util.movement.RMovementStatistic;
 import rampancy.util.weapon.RTargetingStatistic;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDefaultStatisticsManager implements RStatisticsManager {

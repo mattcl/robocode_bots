@@ -7,7 +7,7 @@ import rampancy_old.util.*;
 
 /**
  * Interface for objects that need to listen to changes with EnemyMovements
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface EnemyListener {

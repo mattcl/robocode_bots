@@ -14,7 +14,7 @@ import java.awt.*;
 /**
  * This class tracks enemy movements and provides updates
  * to objects listening to enemy movements.
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class EnemyManager {

@@ -10,7 +10,7 @@ import robocode.util.*;
 
 /**
  * Main robot class.
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class Leela extends AdvancedRobot {

@@ -19,7 +19,7 @@ import rampancy_old.util.tree.*;
 
 /**
  * This is the utility class that represents an enemy robot
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class EnemyRobot {

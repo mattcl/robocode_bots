@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * This class stores information on a SuperNode
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class SuperNode implements Serializable {

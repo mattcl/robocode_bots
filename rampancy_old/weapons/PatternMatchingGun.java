@@ -11,7 +11,7 @@ import rampancy_old.statistics.pattern.*;
 import rampancy_old.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class PatternMatchingGun {

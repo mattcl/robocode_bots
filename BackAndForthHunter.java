@@ -3,7 +3,7 @@ import java.util.*;
 import robocode.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class BackAndForthHunter extends Robot {

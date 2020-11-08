@@ -6,7 +6,7 @@ package rampancy.util.data.kdTree.copy;
 import java.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class KDNearestSearch<T> {

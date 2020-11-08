@@ -14,7 +14,7 @@ import robocode.*;
 
 /**
  * This class manages collections of {@link EnemyWave} and {@link BulletWave}
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class WaveManager implements EnemyListener, TargetingManagerListener {

@@ -8,7 +8,7 @@ import java.util.Arrays;
 import rampancy_old.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class VariationProfile {

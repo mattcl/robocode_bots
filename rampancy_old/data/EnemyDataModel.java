@@ -9,7 +9,7 @@ import java.io.Serializable;
 import rampancy_old.statistics.SuperNode;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class EnemyDataModel implements Serializable {

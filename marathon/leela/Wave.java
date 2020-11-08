@@ -6,7 +6,7 @@ import java.awt.geom.*;
 
 /**
  * This abstract class defines the basic behavior for waves
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class Wave {

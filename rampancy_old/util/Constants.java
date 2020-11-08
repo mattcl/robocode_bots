@@ -7,7 +7,7 @@ import java.awt.Color;
 
 /**
  * This class stores all of the constants used by Durandal
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class Constants {

@@ -10,7 +10,7 @@ import robocode.util.Utils;
 
 /**
  * This class is responsible for managing Durandal's movement
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class MovementManager implements EnemyManagerListener {

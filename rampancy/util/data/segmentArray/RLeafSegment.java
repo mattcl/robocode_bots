@@ -7,7 +7,7 @@ import rampancy.util.RRobotState;
 import rampancy.util.RUtil;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RLeafSegment implements RNode {

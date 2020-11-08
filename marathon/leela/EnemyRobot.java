@@ -8,7 +8,7 @@ import robocode.*;
 
 /**
  * This class stores data about enemy robots
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class EnemyRobot {

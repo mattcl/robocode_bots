@@ -7,7 +7,7 @@ import rampancy.util.*;
 import rampancy.util.wave.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 abstract public class RGun {

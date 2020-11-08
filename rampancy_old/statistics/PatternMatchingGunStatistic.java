@@ -12,7 +12,7 @@ import rampancy_old.weapons.PatternMatchingGun;
 import java.awt.geom.Point2D;
 import java.util.*;
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class PatternMatchingGunStatistic {

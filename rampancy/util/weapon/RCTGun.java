@@ -11,7 +11,7 @@ import rampancy.RampantRobot;
 import rampancy.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RCTGun extends RGun {

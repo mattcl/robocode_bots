@@ -17,7 +17,7 @@ import rampancy.util.weapon.RFiringSolution;
 import robocode.util.Utils;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RBulletWave extends RWave {

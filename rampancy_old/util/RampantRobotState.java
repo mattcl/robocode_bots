@@ -6,7 +6,7 @@ package rampancy_old.util;
 import rampancy_old.RampantRobot;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RampantRobotState extends RobotState{

@@ -2,7 +2,7 @@ package marathon.leela;
 
 /**
  * A dummy class that simply contains constants used by various components of Durandal
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class Constants {

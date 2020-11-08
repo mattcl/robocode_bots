@@ -12,7 +12,7 @@ import rampancy.util.movement.RMovementStatistic;
 import robocode.util.Utils;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class REnemyWaveWithStats extends REnemyWave {

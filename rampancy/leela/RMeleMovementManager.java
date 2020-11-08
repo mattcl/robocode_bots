@@ -16,7 +16,7 @@ import rampancy.util.wave.REnemyWave;
 import rampancy.util.wave.REnemyWaveWithStats;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RMeleMovementManager implements RMovementManager {

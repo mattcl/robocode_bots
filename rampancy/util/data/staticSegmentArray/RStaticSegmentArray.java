@@ -8,7 +8,7 @@ import rampancy.util.RUtil;
 import rampancy.util.data.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RStaticSegmentArray {

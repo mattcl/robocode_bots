@@ -16,7 +16,7 @@ import java.awt.geom.GeneralPath;
 import java.util.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDCGun extends RGun {

@@ -10,7 +10,7 @@ import java.awt.*;
 import java.awt.geom.Line2D;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RVector {

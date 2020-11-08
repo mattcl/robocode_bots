@@ -10,7 +10,7 @@ import rampancy_old.util.*;
 /**
  * This is the interface for objects that want to listen to the
  * targeting manager
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface TargetingManagerListener {

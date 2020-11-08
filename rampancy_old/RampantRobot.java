@@ -9,7 +9,7 @@ import rampancy_old.management.*;
 import robocode.AdvancedRobot;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class RampantRobot extends AdvancedRobot {

@@ -9,7 +9,7 @@ import rampancy.util.RUtil;
 import rampancy.util.data.segmentArray.*;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDefaultSurfingSegmentArray extends RSegmentArray {

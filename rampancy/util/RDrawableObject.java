@@ -6,7 +6,7 @@ package rampancy.util;
 import java.awt.Graphics2D;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public interface RDrawableObject {

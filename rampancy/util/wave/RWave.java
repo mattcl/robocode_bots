@@ -11,7 +11,7 @@ import rampancy.util.RUtil;
 
 /**
  * This class represents a wave
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 abstract public class RWave {

@@ -3,7 +3,7 @@
 /**
  * A set of simpler functions for working with angles in robocode.
  * 
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public abstract class EpgyUtil {

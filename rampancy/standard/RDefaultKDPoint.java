@@ -10,7 +10,7 @@ import rampancy.util.*;
 import rampancy.util.data.kdTree.KDPoint;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  *
  */
 public class RDefaultKDPoint extends KDPoint {

@@ -21,7 +21,7 @@ import rampancy.util.wave.REnemyWaveWithStats;
 import robocode.util.Utils;
 
 /**
- * @author Matthew Chun-Lum
+ * @author Matt Chun-Lum
  * Movement strategy:
  * --------------------------------
  * Identify the nearest wave
